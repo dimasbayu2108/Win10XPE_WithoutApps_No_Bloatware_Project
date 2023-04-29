@@ -54,3 +54,6 @@ Status: Pembuatan Laporan
 - https://theoven.org/viewforum.php?f=14&sid=41711da8e34639a721de5b865db1b7d9 (Win 10 XPE Forums Discussion)
 
 # Screenshoot:
+![Win_Testing_3-2023-04-27-20-55-17](https://user-images.githubusercontent.com/48012187/235278926-682fd65c-6f27-4d07-8ae4-83c0ad0729ee.png)
+![Win_Testing_3-2023-04-27-20-51-44](https://user-images.githubusercontent.com/48012187/235278928-a114bd97-0dcc-436b-a9ed-59fe6612e3e5.png)
+
