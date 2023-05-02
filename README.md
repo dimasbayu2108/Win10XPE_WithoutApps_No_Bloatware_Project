@@ -46,7 +46,7 @@ Windows 10XPE adalah sistem operasi kecil dengan berdasar pada versi windows 10 
 
 # Note:
 - this installation based on win 10 version 20h1 build 19041 which get from "boot.wim" files win 10 Preinstall Environment (WinPE).
-- application from this installation only installed system apps, you can run the needed apps when booted on this installation.
+- application from this installation only system apps installed, you can run the needed apps when booted on this installation.
 - because of boot from winRE envirotment, maybe some process cannot run or limited access.
 
 # Reference:
