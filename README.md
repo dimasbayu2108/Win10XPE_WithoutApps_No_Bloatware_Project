@@ -42,6 +42,7 @@ Windows 10XPE adalah sistem operasi kecil dengan berdasar pada versi windows 10 
 - Win Toolkit
 - NTLite
 - Win Builder
+- Win10XPE (from @ChrisRfr, thanks for her to make this project as possible)
 
 # Note:
 - 
@@ -52,6 +53,7 @@ Windows 10XPE adalah sistem operasi kecil dengan berdasar pada versi windows 10 
 - https://learn.microsoft.com/id-id/windows-hardware/manufacture/desktop/winpe-intro?view=windows-11
 - http://win10se.cwcodes.net/ (win 10 PE SE/XPE Homepage)
 - https://theoven.org/viewforum.php?f=14&sid=41711da8e34639a721de5b865db1b7d9 (Win 10 XPE Forums Discussion)
+- https://github.com/ChrisRfr/Win10XPE (Win10XPE Project by @ChrisRfr on github)
 
 # Screenshoot:
 ![Win_Testing_3-2023-04-27-20-55-17](https://user-images.githubusercontent.com/48012187/235278926-682fd65c-6f27-4d07-8ae4-83c0ad0729ee.png)
