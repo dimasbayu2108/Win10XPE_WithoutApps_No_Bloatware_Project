@@ -1,6 +1,14 @@
 # Win10XPE_WithoutApps_No_Bloatware_Project
 Windows 10XPE adalah sistem operasi kecil dengan berdasar pada versi windows 10 build 19041 yang digunakan untuk menginstal, menerapkan, dan memperbaiki Windows Client, Windows Server, dan versi sistem operasi Windows lainnya. pada github ini hanya berisi laporan hasil modifikasi serta tautan unduhan yang telah dibuat dari Win10XPE
 
+Dari WinPE dapat digunakan antara lain:
+- Siapkan hard drive Anda sebelum menginstal Windows.
+- Instal Windows dengan menggunakan aplikasi atau skrip dari jaringan atau drive lokal.
+- Ambil dan menerapkan instalasi Windows.
+- Ubah sistem operasi Windows saat tidak berjalan.
+- Siapkan alat pemulihan otomatis.
+- Memulihkan data dari perangkat yang tidak dapat di-boot.
+
 - Link untuk mengunduh instalasi win10XPE bisa mengakses ini: https://lynk.id/baydimlabproject/mLAxnQK
 
 # Windows 10 XPE Version 2004 Update june 2020 Build 19041.1 (modified by dimas bayu)
