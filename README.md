@@ -9,7 +9,7 @@ Dari WinPE dapat digunakan antara lain:
 - Siapkan alat pemulihan otomatis.
 - Memulihkan data dari perangkat yang tidak dapat di-boot.
 
-- Link untuk mengunduh instalasi win10XPE bisa mengakses ini: https://lynk.id/baydimlabproject/mLAxnQK
+Link untuk mengunduh instalasi win10XPE bisa mengakses ini: https://lynk.id/baydimlabproject/mLAxnQK
 
 # Windows 10 XPE Version 2004 Update june 2020 Build 19041.1 (modified by dimas bayu)
 - Details: Win10XPE_WithoutApps_x64.iso
