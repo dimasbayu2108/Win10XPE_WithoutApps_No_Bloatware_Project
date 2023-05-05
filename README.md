@@ -3,7 +3,7 @@ Windows 10XPE adalah sistem operasi kecil dengan berdasar pada versi windows 10 
 
 Dari WinPE dapat digunakan antara lain:
 - Siapkan hard drive Anda sebelum menginstal Windows.
-- Instal Windows dengan menggunakan aplikasi atau skrip dari jaringan atau drive lokal.
+- Instal Windows dengan menggunakan aplikasi atau skrip dari jaringan maupun drive lokal.
 - Ambil dan menerapkan instalasi Windows.
 - Ubah sistem operasi Windows saat tidak berjalan.
 - Siapkan alat pemulihan otomatis.
